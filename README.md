@@ -1,4 +1,4 @@
-# Optical_Interconncetion_Network (Machine Leraning Prediction Model)
+# Optical Interconncetion Network
 ## Introduction
 An Optical Interconnection Network (OIN) is a type of communication network that uses optical
 technology to transmit data signals between different electronic components or systems. The OIN
